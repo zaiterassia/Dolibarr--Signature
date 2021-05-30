@@ -2,7 +2,7 @@
 Module externe dolibarr qui permet aux utilisateurs de rajouter une signature éléctronique.
 Cette signature pourra être insérée automatiquement lors de la génération des fichiers pdf (facture, intervention, commande...)
 # Credit
-*!
+
  * Signature Pad v3.0.0-beta.4 | https://github.com/szimek/signature_pad
  * (c) 2020 Szymon Nowak | Released under the MIT license
  */
