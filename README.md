@@ -1,7 +1,5 @@
 # SIGNATURE FOR [DOLIBARR ERP CRM](https://www.dolibarr.org)
 
-## Features
-
 # Description
 Module externe dolibarr qui permet aux utilisateurs de rajouter une signature éléctronique.
 Cette signature pourra être insérée automatiquement lors de la génération des fichiers pdf (facture, intervention, commande...)
