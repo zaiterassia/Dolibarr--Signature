@@ -1,0 +1,53 @@
+# Copyright (C) 2021 Assia Zaiter <assia.zaiter@exher.fr>
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+#
+# Generic
+#
+
+# Module label 'ModuleSignatureName'
+ModuleSignatureName = Signature
+# Module description 'ModuleSignatureDesc'
+ModuleSignatureDesc = Signature description
+
+#
+# Admin page
+#
+SignatureSetup = Signature setup
+Settings = Settings
+SignatureSetupPage = Signature setup page
+SIGNATURE_MYPARAM1 = My param 1
+SIGNATURE_MYPARAM1Tooltip = My param 1 tooltip
+SIGNATURE_MYPARAM2=My param 2
+SIGNATURE_MYPARAM2Tooltip=My param 2 tooltip
+
+
+#
+# About page
+#
+About = About
+SignatureAbout = About Signature
+SignatureAboutPage = Signature about page
+
+#
+# Sample page
+#
+MyPageName = My page name
+
+#
+# Sample widget
+#
+MyWidget = My widget
+MyWidgetDescription = My widget description
