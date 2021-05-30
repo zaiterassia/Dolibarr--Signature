@@ -1,3 +1,7 @@
+# SIGNATURE FOR [DOLIBARR ERP CRM](https://www.dolibarr.org)
+
+## Features
+
 # Description
 Module externe dolibarr qui permet aux utilisateurs de rajouter une signature éléctronique.
 Cette signature pourra être insérée automatiquement lors de la génération des fichiers pdf (facture, intervention, commande...)
@@ -6,15 +10,6 @@ Cette signature pourra être insérée automatiquement lors de la génération d
  * Signature Pad v3.0.0-beta.4 | https://github.com/szimek/signature_pad
  * (c) 2020 Szymon Nowak | Released under the MIT license
  */
-# SIGNATURE FOR [DOLIBARR ERP CRM](https://www.dolibarr.org)
-
-## Features
-
-Description...
-
-<!--
-![Screenshot signature](img/screenshot_signature.png?raw=true "Signature"){imgmd}
--->
 
 Other modules are available on [Dolistore.com](https://www.dolistore.com).
 
@@ -30,7 +25,6 @@ For more informations, see the [translator's documentation](https://wiki.dolibar
 There is a [Transifex project](https://transifex.com/projects/p/dolibarr-module-template) for this module.
 -->
 
-<!--
 
 ## Installation
 
@@ -81,7 +75,6 @@ From your browser:
   - Go to "Setup" -> "Modules"
   - You should now be able to find and enable the module
 
--->
 
 ## Licenses
 
